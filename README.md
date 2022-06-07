@@ -5,7 +5,8 @@
 <p align="center">
     <a href="#contribuidores">Contribuidores</a> •
     <a href="#descrição-do-projeto">Descrição do Projeto</a> •
-    <a href="#requisitos">Requisitos</a>
+    <a href="#requisitos">Requisitos</a> •
+    <a href="#apresentação">Apresentação</a>
 </p>
 
 ## Contribuidores
@@ -13,7 +14,7 @@
 Bernardo Marques Costa - **11795551**\
 João Victor Sene Araujo - **11796382**\
 Pedro Augusto Ribeiro Gomes - **11819125**\
-Rodrigo Assaf - **11795530**
+Rodrigo Lopes Assaf - **11795530**
 
 ## Descrição do Projeto
 Neste trabalho, o Arduino emissor receberá um caractere pela sua porta serial (através do Serial Monitor da plataforma) e deverá enviar de forma serial e síncrona ao Arduino receptor, que imprimirá os caracteres recebidos em sua porta serial, exibindo para o usuário através do Serial Monitor. Os caracteres deverão ser transmitidos de acordo com o código ASCII (https://upload.wikimedia.org/wikipedia/commons/d/dd/ASCII-Table.svg)
@@ -25,3 +26,6 @@ Neste trabalho, o Arduino emissor receberá um caractere pela sua porta serial (
   <li>A comunicação deverá implementar o controle de erros através de um bit de paridade;</li>
   <li>A comunicação deverá implementar um handshake simples entre o emissor e o receptor.</li>
 </ul>
+
+## Apresentação
+[![Apresentação]](https://youtu.be/96DKPb0xCZk)
