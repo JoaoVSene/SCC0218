@@ -3,9 +3,9 @@
 <p align="center">O objetivo do trabalho é realizar uma comunicação síncrona entre duas plataformas Arduino.</p>
 
 <p align="center">
-    <a href="#contribuidores">Objetivo</a> •
-    <a href="#descricao">Roadmap</a> •
-    <a href="#requisitos">Tecnologias</a>
+    <a href="#contribuidores">Contribuidores</a> •
+    <a href="#descricao">Descrição do Projeto</a> •
+    <a href="#requisitos">Requisitos</a>
 </p>
 
 ## Contribuidores
