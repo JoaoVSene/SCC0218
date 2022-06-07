@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="#contribuidores">Contribuidores</a> •
-    <a href="#descricao-do-projeto">Descrição do Projeto</a> •
+    <a href="#descrição-do-projeto">Descrição do Projeto</a> •
     <a href="#requisitos">Requisitos</a>
 </p>
 
