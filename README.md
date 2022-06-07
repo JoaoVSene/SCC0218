@@ -28,4 +28,4 @@ Neste trabalho, o Arduino emissor receberá um caractere pela sua porta serial (
 </ul>
 
 ## Apresentação
-[Apresentação](https://youtu.be/96DKPb0xCZk)
+[Vídeo Youtube](https://youtu.be/96DKPb0xCZk)
